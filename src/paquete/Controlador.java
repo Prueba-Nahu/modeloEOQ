@@ -29,6 +29,8 @@ public class Controlador {
 
     public void calcularCantidadEOQ() {
     //Comentario
+    //Este es otro comentario Realizado en la Rama Nahuel
+    //1111
         for (int i = 1; i <= d.getCantidadCategorias(); i++) {
             this.ingresoDatos();
             this.cantidadEOQSinAjuste.add(d.getCantidadEOQ());
