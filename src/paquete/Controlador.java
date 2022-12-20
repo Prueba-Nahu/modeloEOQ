@@ -31,6 +31,7 @@ public class Controlador {
     //Comentario
     //Este es otro comentario Realizado en la Rama Nahuel
     //1111dsfsdf
+    //Otro cambio
         for (int i = 1; i <= d.getCantidadCategorias(); i++) {
             this.ingresoDatos();
             this.cantidadEOQSinAjuste.add(d.getCantidadEOQ());
