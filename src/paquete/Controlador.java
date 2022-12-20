@@ -28,7 +28,7 @@ public class Controlador {
     }
 
     public void calcularCantidadEOQ() {
-
+    //Comentario
         for (int i = 1; i <= d.getCantidadCategorias(); i++) {
             this.ingresoDatos();
             this.cantidadEOQSinAjuste.add(d.getCantidadEOQ());
