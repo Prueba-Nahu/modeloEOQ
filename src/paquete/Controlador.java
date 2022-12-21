@@ -33,6 +33,7 @@ public class Controlador {
     //1111dsfsdf
     //Otro cambio
     //Cambio desde la rama que tengo permiso
+    //viendo si tengo permisos
         for (int i = 1; i <= d.getCantidadCategorias(); i++) {
             this.ingresoDatos();
             this.cantidadEOQSinAjuste.add(d.getCantidadEOQ());
